@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
+
+body {
+    background-color: #bdb2ff;
+    text-align: center;
+}
+
+h1 {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 59px;
+   color: #fff;
+   font-weight: 600;
+   padding-bottom: 25px;
+}
+
+p {
+    color: white;
+}
+
+p,
+input,
+textarea,
+label {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max width: 1320px;
+    margin: 0;
+    padding: 5%
+}
+
+form {
+    
+}
